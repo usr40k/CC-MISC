@@ -25,9 +25,9 @@ A minimal MISC system consists of
 
 The client can be advanced or basic, it supports both mouse and keyboard.
 
-On both your server and all your clients simply run `wget run https://raw.githubusercontent.com/Storehaus/CC-MISC/master/installer.lua`.
+On both your server and all your clients simply run `wget run https://raw.githubusercontent.com/usr40k/CC-MISC/master/installer.lua`.
 
-To install a version from another repository pass the repo as an argument, for example: `wget run https://raw.githubusercontent.com/Storehaus/CC-MISC/master/installer.lua 40476/CC-MISC`.
+To install a version from another repository pass the repo as an argument, for example: `wget run https://raw.githubusercontent.com/usr40k/CC-MISC/master/installer.lua 40476/CC-MISC`.
 
 On your server select the base MISC system option.
 
