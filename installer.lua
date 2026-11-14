@@ -1,4 +1,4 @@
-'local args = { ... }
+local args = { ... }
 local repositoryUrl = "https://raw.githubusercontent.com/usr40k/CC-MISC/master/"
 
 -- Check if first argument is a GitHub repository path (format: username/repo)
