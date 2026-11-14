@@ -1,5 +1,5 @@
-local args = { ... }
-local repositoryUrl = "https://raw.githubusercontent.com/Storehaus/CC-MISC/master/"
+'local args = { ... }
+local repositoryUrl = "https://raw.githubusercontent.com/usr40k/CC-MISC/master/"
 
 -- Check if first argument is a GitHub repository path (format: username/repo)
 if args[2] == "internal_separate_repo_flag" then
